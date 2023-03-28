@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(186, 209, 225);
+}
+.box{
+   display:flex;
+    background-color: rgb(199, 215, 226);
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+   
+}
+.P1{
+    width: 200px;
+    height: 300px;
+    background-color: rgb(157, 163, 198);
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;  
+    margin-bottom:10px ;
+    margin-top: 10px;
+ 
+}
+.P1 button{
+background-color: rgb(186, 209, 225);
+width:200px;
+
+ margin-top: 20px;
+ 
+}
+.P1 button:hover{
+    box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.8);
+}
+.P1:hover{
+        box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.8);          
+      }
+h1{
+    text-align: center;
+    font-style:oblique;
+    color:rgb(60, 101, 137);
+    font-size: xx-large;
+}
+h1,h2{
+    text-align: center;
+    font-style:oblique;
+    color:rgb(60, 101, 137);
+    font-size: xx-large; 
+}
+.child{
+    background-image: url('https://media.istockphoto.com/id/1188864563/vector/charity-volunteering-and-donating-concept-raised-up-human-hands-with-red-hearts-childrens.jpg?s=612x612&w=0&k=20&c=WmHrAiSnCaugBcVu9wSb3WUcKOiFW5GZnuChts5Orys=');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 1000px;
+    background-color: rgb(211, 189, 134);
+}
+h2{
+    font-size: 400%;
+    margin-top: 10px;
+    padding-top: 30px;
+}

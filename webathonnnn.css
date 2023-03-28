@@ -1,0 +1,149 @@
+.text1{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 50px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 25px;
+}
+.heading,h3{
+    color: rgb(3, 27, 13);
+    word-spacing: 3px;
+
+}
+.heading{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 2px rgb(205, 199, 199);
+    color: rgb(86, 113, 104);
+}
+ul{
+    list-style-type:none;
+    display: flex;
+    justify-content: space-around;
+    gap: 70px;
+    color: rgb(133, 169, 149);
+}
+
+.text2{
+    padding-top: 10px;
+    background-color: rgb(133, 169, 149);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 10px 10px;
+    height: 150px;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+.topic{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 10px;
+    font-size: 20px;
+}
+.topic .i1{
+    width: 350px;
+}
+.bottom{
+    justify-content: space-around;
+    background-color:  rgb(176, 193, 184);
+    margin: 10px 10px;
+}
+img{
+  margin: 10px 10px; 
+}
+h3{
+    font-size:x-large;
+}
+.main2{
+    display: flex;
+    gap: 40px;
+    margin-top: 100px;
+    justify-content: space-evenly;
+   align-content: center;
+   justify-content: center;
+}
+.profile{
+    padding-top: 10px;
+    width: 600px;
+    margin: 50px 5px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+    background-color:   rgb(156, 182, 167);
+    flex-wrap: wrap;
+    box-shadow: 2px 2px 2px rgb(193, 168, 168);
+}
+.profile:hover,.prof:hover{
+    transform: scale(1.01);
+}
+.hdng{
+    text-align: center;
+    font-size: 200%;
+}
+.icons{
+    background-color: rgb(214, 200, 182);
+}
+.main3{
+    background-color: rgb(205, 190, 172);
+}
+h1{
+    font-size: 200%;
+    text-align: center;
+}
+.pic{
+padding:10px;
+}
+.prof
+{
+    padding-top: 10px;
+    width: 600px;
+    margin: 5px 5px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+    background-color:   rgb(156, 182, 167);
+    flex-wrap: wrap;
+    box-shadow: 2px 2px 2px rgb(193, 168, 168);
+}
+.parent{
+    display: flex;
+    gap: 40px;
+    margin-top: 100px;
+    justify-content: space-evenly;
+   align-content: center;
+   justify-content: center;
+}
+.about{
+    background-color: rgb(223, 216, 203);
+}
+.class{
+    background-color: rgb(205, 190, 172);
+}
+.about p{
+    font-style: oblique;
+    text-align: center;
+    padding: 5px 5px;
+    margin-bottom: 5px;
+    font-size: larger;
+}
+.about1 p{
+    font-style: normal;
+    margin-left: 90px;
+}
+.icon2,.icon1{
+    border-radius: 10%;
+    position: relative;
+   left:1370px;
+height:18px;
+width:20px;
+margin: 2px;
+}
+.about1{
+    background-color:rgb(223, 216, 203) ;
+}
+.feed{
+    margin-left: 90px;
+}

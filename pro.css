@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(176, 193, 184);
+}
+.profile h3,.box{
+    margin-left: 500px;
+}
+.image{
+    text-align: center;
+}

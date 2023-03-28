@@ -1,0 +1,97 @@
+
+body{
+    background-color: rgb(201, 176, 166);
+}
+.text1{
+    display: flex;
+    color: black;
+    font-size:30px;
+    background-color: rgb(172, 120, 120);
+  flex-wrap:wrap;
+  font-style: italic;
+}
+.text2{
+    top: 80px;
+    color: black;
+    font-style: oblique;
+}
+.h{
+    margin-left: 600px;
+  text-align:center;
+}
+.big img{
+width: 1500px;
+margin: 10px 10px;
+}
+.end{
+    display: flex;
+}
+.p{
+    margin-left: 100px;
+    font-size: 50px;
+}
+.p1{
+    margin-left: 100px;
+    font-size: 20px;
+    font-style: oblique;
+}
+.flexbox{
+    position: relative;
+    color: whitesmoke;
+    border: solid grey 2px;
+    width: 500px;
+    margin-right: 25px;
+    background-color: rgb(182, 130, 130);
+    top: 45px;
+}
+h2{font-family:'Edu SA Beginner', cursive;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h4{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.pic2 img{
+    padding:10px;
+    border-radius: 90px;
+    height:100px;
+    padding-right: 10px;
+}
+.flex1{
+    display: flex;
+    justify-content: center;
+}
+.flexbox h2{
+    text-align: center;
+}
+.b2 button{
+    border-radius: 40%;
+    width:150px;
+    height: 80px;
+    padding: 5px;
+    margin: 10px;
+}
+.pic2 img:hover{
+    transform: scale(1.01);
+}
+.pay h3{
+text-align: center;
+}
+
+.button2 button{
+    position: absolute;
+    top:110px;
+    right:2px;
+    margin: 5px;
+
+}
+.button1 button{
+    position: absolute;
+    top:110px;
+    margin: 5px;
+}
+.b3 {
+    margin-left:140px;
+
+}
